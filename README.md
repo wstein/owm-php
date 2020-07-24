@@ -1,2 +1,1 @@
-# owm-php
-PHP OpenWeatherMap App
+# PHP OpenWeatherMap App
